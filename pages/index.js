@@ -25,7 +25,7 @@ const Home = () => {
             <span className="text-accent font-black text-3xl xl:text-5xl z-">
               {" "}&lt;Electronics and Computer Science/&gt;{" "}
             </span>
-             <span className="text-sky-500"> (EESA)</span>
+             <span className="text-sky-500">{EESA}</span>
 
             <p className="max-w-sm xl:max-w-xl z-50 pt-4 font-semibold text-sm text-white mx-auto xl:mx-0 mb-10 xl:mb-16 ">
               ELECTRONICS ENGINEERING STUDENTS ASSOCIATION (EESA) IS A STUDENT COMMITTEE WHICH BELONGS TO THE ELECTRONICS DEPARTMENT OF VIT. EESA-VIT, IS A STUDENT CHAPTER OF VIDYALANKAR INSTITUTE OF TECHNOLOGY (VIT). IT ACTS AS A PLATFORM OF THE ELECTRONICS ENGINEERING DEPARTMENT TO CONDUCT VARIOUS ACTIVITIES AND HOST EVENTS, TO PUT FORTH INTERESTING AND CREATIVE IDEAS IN THE TECHNICAL FIELD.{" "}
