@@ -65,7 +65,7 @@ const Services = () => {
               Heads of <span className="text-accent">EESA.</span>{" "}
             </h2>
             <p className="mb-4 max-w-[400px] mx-auto lg:mx-0">
-              Meet the heads of EESA, leading the way in electrical and computer science engineering innovation with passion and dedication, shaping the future of tech.
+              Introducing the leaders of EESA, driving advancements in electrical and computer science engineering with unwavering commitment, molding the trajectory of technology's future.
             </p>
           </motion.div>
 
