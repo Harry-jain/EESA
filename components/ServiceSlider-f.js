@@ -25,19 +25,19 @@ const serviceData = [
   {
     icon: <HiAcademicCap    />,
     title: "Dr.Arun Chavan",
-    link: "https://www.instagram.com/haarshrajputt/",
+    link: "https://www.linkedin.com/in/arun-chavan-232a76a0/
     description: "Head Of Department (ExCS).",
   },
   {
     icon: <FaChalkboardTeacher />,
-    title: "Prof.Nayna Mahajan",
-    link: "https://www.instagram.com/udayamballa/",
+    title: "Dr.Nayna Mahajan",
+    link: "https://www.linkedin.com/in/dr-nayana-mahajan-886575110/",
     description: "Conveyor of EESA",
   },
   {
     icon: <FaChalkboardTeacher />,
     title: "Prof.Anmol Sakharkar",
-    link: "https://www.instagram.com/udayamballa/",
+    link: "https://www.linkedin.com/company/eesa-vit/",
     description: "Co-conveyor of EESA",
   }
 ];
