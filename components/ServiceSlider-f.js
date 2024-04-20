@@ -25,7 +25,7 @@ const serviceData = [
   {
     icon: <HiAcademicCap    />,
     title: "Dr.Arun Chavan",
-    link: "https://www.linkedin.com/in/arun-chavan-232a76a0/
+    link: "https://www.linkedin.com/in/arun-chavan-232a76a0/",
     description: "Head Of Department (ExCS).",
   },
   {
