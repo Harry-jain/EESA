@@ -69,7 +69,7 @@ const Services = () => {
             </p>
             <div
               className="z-50  cursor-pointer justify-center flex items-center rounded-md
-                 dark:text-white text-xl text-black bg-accent font-semibold text-slate-300
+                  text-black bg-accent font-semibold
                hover:border-accent hover:text-accent hover:bg-white 
                  h-[30px] w-[230px] items-center"
             >
