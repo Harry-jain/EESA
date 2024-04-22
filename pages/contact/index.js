@@ -33,7 +33,7 @@ const Contact = () => {
       <div className=" container mx-auto py-32 text-center xl:text-left flex items-center jusrify-center h-full ">
         <div className="flex flex-col w-full max-w-[700px] ">
           <h2 className=" p-2 text-white text-[30px]">
-            Contact <span className="text-accent">US</span> :)
+            Contact <span className="text-accent font-black">US</span> :)
           </h2>
           <form
             id="survey-form"
