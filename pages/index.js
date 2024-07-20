@@ -1,3 +1,10 @@
+//
+// Hello EESA tech head for 24-25!!!!
+//
+// I have wasted a LOT of time on it soooo just add no of hours spent on the code.
+//
+// NO OF HOURS WASTED = 56 hrs (last updated by : Harsh Jain)
+//
 import Image from "next/image";
 
 import { SpeedInsights } from "@vercel/speed-insights/next"
