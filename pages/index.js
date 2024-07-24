@@ -29,9 +29,9 @@ const Home = () => {
             className="h2 max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 z-20"
           >
             {/* <span className="text-4xl font-semibold xl:font-bold text-white"><span className="text-accent">&lt;EESA-VIT/&gt;   {" "} </span>presents</span>{"   "} */}
-            // <span className="text-accent font-black text-3xl xl:text-5xl z-">
-            //   {" "}&lt;Electronics and Computer Science/&gt;{" "}
-            // </span>
+            <span className="text-accent font-black text-3xl xl:text-5xl z-">
+              {" "}&lt;Electronics and Computer Science/&gt;{" "}
+            </span>
              <span className="text-purple-500 font-3xl">&lt;EESA/&gt;{" "}</span>
 
             <p className="max-w-sm xl:max-w-xl z-50 pt-4 font-semibold text-sm text-white mx-auto xl:mx-0 mb-10 xl:mb-16 ">
