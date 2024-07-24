@@ -29,13 +29,13 @@ const Home = () => {
             className="h2 max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 z-20"
           >
             {/* <span className="text-4xl font-semibold xl:font-bold text-white"><span className="text-accent">&lt;EESA-VIT/&gt;   {" "} </span>presents</span>{"   "} */}
-            <span className="text-accent font-black text-3xl xl:text-5xl z-">
-              {" "}&lt;Electronics and Computer Science/&gt;{" "}
-            </span>
-             <span className="text-cyan-400 font-2xl">EESA</span>
+            // <span className="text-accent font-black text-3xl xl:text-5xl z-">
+            //   {" "}&lt;Electronics and Computer Science/&gt;{" "}
+            // </span>
+             <span className="text-purple-500 font-3xl">&lt;EESA/&gt;{" "}</span>
 
             <p className="max-w-sm xl:max-w-xl z-50 pt-4 font-semibold text-sm text-white mx-auto xl:mx-0 mb-10 xl:mb-16 ">
-              ELECTRONICS ENGINEERING STUDENTS ASSOCIATION (EESA) IS A STUDENT COMMITTEE WHICH BELONGS TO THE ELECTRONICS DEPARTMENT OF VIT. EESA-VIT, IS A STUDENT CHAPTER OF VIDYALANKAR INSTITUTE OF TECHNOLOGY (VIT). IT ACTS AS A PLATFORM OF THE ELECTRONICS ENGINEERING DEPARTMENT TO CONDUCT VARIOUS ACTIVITIES AND HOST EVENTS, TO PUT FORTH INTERESTING AND CREATIVE IDEAS IN THE TECHNICAL FIELD.{" "}
+              ELECTRONICS AND COMPUTER SCIENCE STUDENTS ASSOCIATION (ECSA) IS A STUDENT COMMITTEE WHICH BELONGS TO THE ELECTRONICS DEPARTMENT OF VIT. ECSA-VIT, IS A STUDENT CHAPTER OF VIDYALANKAR INSTITUTE OF TECHNOLOGY (VIT). IT ACTS AS A PLATFORM OF THE ELECTRONICS ENGINEERING DEPARTMENT TO CONDUCT VARIOUS ACTIVITIES AND HOST EVENTS, TO PUT FORTH INTERESTING AND CREATIVE IDEAS IN THE TECHNICAL FIELD.{" "}
             </p>
             <div className="flex sm:pl-2 cursor-pointer text-lg font-extrabold text-white z-60 ">
               <div
