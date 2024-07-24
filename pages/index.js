@@ -30,7 +30,7 @@ const Home = () => {
           >
             // {/* <span className="text-4xl font-semibold xl:font-bold text-white"><span className="text-accent">&lt;EESA-VIT/&gt;   {" "} </span>presents</span>{"   "} */}
             <span className="text-accent font-black text-3xl xl:text-5xl z-">
-              {"//"}{" "}&lt;Electronics and Computer Science/&gt;{" "}//
+              {" "}{"//"}&lt;Electronics and Computer Science/&gt;{"//"}{" "}
             </span>
              <span className="text-purple-700 font-3xl font-bold">&lt;EESA/&gt;{" "}</span>
 
